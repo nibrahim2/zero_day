@@ -1,2 +1,1 @@
-I have officially started my ALX training.
-Hope to achieve my dreams at the end of this training.
+A small demo on how to connect git to a remote repository(github)
